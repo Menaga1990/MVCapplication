@@ -1,0 +1,15 @@
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
+
+# Logs
+*.log
+*.pdb
+
+# Others
+*.DS_Store
